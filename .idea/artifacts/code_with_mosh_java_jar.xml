@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="code_with_mosh-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/code_with_mosh_java_jar</output-path>
+    <root id="archive" name="code_with_mosh-java.jar">
+      <element id="module-output" name="code_with_mosh-java" />
+    </root>
+  </artifact>
+</component>
